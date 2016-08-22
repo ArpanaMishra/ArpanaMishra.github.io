@@ -3,7 +3,7 @@ sw2882
 CS3590 Summer 2016
 Selective Reject ARQ Simulation
 
-This simulation project has been designed in Adobe Animate CC2015.2. There were not any known or detected bugs at the time of submission.
+This simulation project has been designed in Adobe Animate CC2015.2. There were no known or detected bugs at the time of submission.
 
 *************************************************************************************************************************************
 The Simulation is divided into five scenarios as follows:
